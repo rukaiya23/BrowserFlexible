@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	text-align: center;
+	font-size: 100px;
+	background: linear-gradient(#22A7F2,red);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-ms-background-clip: text;
+	-moz-background-clip: text;
+	-o-background-clip: text;
+	color: transparent;
+}
+
+h1:hover{
+	background: linear-gradient(red,#22A7F2);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-ms-background-clip: text;
+	-moz-background-clip: text;
+	-o-background-clip: text;
+	color: transparent;
+}
